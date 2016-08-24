@@ -3,7 +3,6 @@ import cv2
 import numpy as np
 from tensorflow.python.framework import dtypes
 from tensorflow.contrib.learn.python.learn.datasets import base
-import tensorflow as tf
 import scipy.io
 
 
